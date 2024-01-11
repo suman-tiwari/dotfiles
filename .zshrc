@@ -109,8 +109,6 @@ export DATABASE_USER=root
 export DATABASE_PASSWORD=password 
 export OLUMO_DATABASE_USER=root 
 export OLUMO_DATABASE_PASSWORD=password 
-export MINDGYM_REPORTING_API_URL='https://7dyvlzdlp7.execute-api.eu-west-2.amazonaws.com/dev'
-export MINDGYM_REPORTING_API_TOKEN='aZ2n1e2ZjdNlGDKhs03tNgLchoXRCVJo3aLydt7JVNiQ5USkcQEtjXtMRtaSYLf0ZFLKqhqaOApNWlvp6Zirwa20DrFXPSTK4jM2xZmm3cJgSo4uDMhd46ZTeUF1ZzSS'
 
 alias worker='rails jobs:work' 
 alias pull_origin='git pull origin develop'
